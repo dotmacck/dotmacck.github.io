@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+# Mackenzie's Portfolio
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
